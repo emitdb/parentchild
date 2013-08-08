@@ -10,6 +10,17 @@ assert.deepEqual(parentchild({
   a: {
     b: 'foo'
   },
+  c: ['a', 'b']
+}), [['child', undefined, 'a'],
+    ['child', 'a', 'b'],
+    ['value', 'b', 'foo'],
+    ['child', undefined, 'c'],
+    ['inarray', 'c', 'a'],
+    ['inarray', 'c', 'b']]);
+assert.deepEqual(parentchild({
+  a: {
+    b: 'foo'
+  },
   c: {
     f: 'baz',
     d: {
