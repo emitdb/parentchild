@@ -1,4 +1,4 @@
-# json-all-parent-child
+# parentchild
 
 Returns all parent child relations from a json file
 
