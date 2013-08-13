@@ -1,18 +1,18 @@
 {
   "name": "parentchild",
   "version": "0.0.0",
-  "description": "json-all-parent-child =====================",
+  "description": "parentchild",
   "main": "index.js",
   "scripts": {
     "test": "node test/"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dscape/json-all-parent-child.git"
+    "url": "git://github.com/emitdb/parentchild.git"
   },
   "author": "",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/dscape/json-all-parent-child/issues"
+    "url": "https://github.com/emitdb/parentchild/issues"
   }
 }
