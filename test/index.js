@@ -77,3 +77,5 @@ assert.deepEqual(parentchild({
   ['inarray', 's', 1],
   ['inarray', 's', 2],
   ['inarray', 's', 3]]);
+
+console.log('ok');
