@@ -1,3 +1,6 @@
+[![build status](https://secure.travis-ci.org/emitdb/parentchild.png)](http://travis-ci.org/emitdb/parentchild)
+[![deps status](https://david-dm.org/emitdb/parentchild.png)](https://david-dm.org/emitdb/parentchild)
+
 # parentchild
 
 Returns all parent child relations from a json file
